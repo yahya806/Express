@@ -1,0 +1,87 @@
+body{
+    margin: 5px;
+    
+}
+.body{
+    margin: auto;
+    margin-top: 5%;
+    width: 50%;
+    height:60vh;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.inputs{
+    border-radius: 12px;
+    box-shadow: 10px 10px 5px 10px #aaaaaa;
+    width: 55%;
+    height: 50vh;
+    margin: auto;
+   
+}
+.links{
+    border-radius: 8px;
+    background-color: rgb(4, 34, 117);
+    width: 60%;
+    height: 70vh;
+    
+    
+
+}
+.info{
+ margin: 20px ; 
+ color: white;
+}
+.logs{
+    margin-top: 26%;
+}
+ 
+.home{
+    display: flex;
+    justify-content: space-between;
+}  
+.discreption{
+    width: 40%;
+    
+}
+.img1{
+ 
+    border-radius: 12px;
+    margin-left: 10%;
+}
+
+.img2{
+    
+    border-radius: 12px;
+    border:white solid 10px;
+    margin-top: 8%;
+}
+.img3{
+    
+    border-radius: 12px;
+    border:white solid 10px;
+    margin-top: 8%;
+}
+.home{
+    width: 90%;
+    margin: auto;
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.divserv{
+    width: 40%;
+    color: blue;
+}
+.service{
+    width: 90%;
+    margin: auto;
+}
+.imgss{
+    width: 40%;
+    border-radius: 12px;
+    height: 60vh;
+}
